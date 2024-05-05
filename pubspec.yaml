@@ -21,6 +21,7 @@ dependencies:
   get_it: ^7.6.8
   image_picker: ^1.0.7
   supabase_flutter: ^2.5.0
+  uuid: ^4.4.0
 
 dev_dependencies:
   flutter_test:
